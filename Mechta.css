@@ -1,0 +1,292 @@
+body 
+{
+background-color: #E0FFFF;
+margin: 0px;
+padding: 0px;
+}
+
+.clearfix:after {
+content:'';
+display: table;
+width: 100%;
+clear: both;
+}
+
+ul
+{
+margin-left: 50px;
+list-style:none;
+margin:0;
+padding-left:203;
+margin-top:25px;
+background:#F44;
+height: 50px;
+}
+
+a:not([korzina])
+{
+text-decoration:none;
+background: #FF4444;
+color: #fff;
+padding: 10px 15px;
+font-family: arial;
+line-height: 50px;
+display: block:
+border-right: 1px solid #F36262;
+-moz-transition: all 0.3s 0.01s ease;
+-o-transition: all 0.3s 0.01s ease;
+-webkut-transition: all 0.3s 0.01s ease;
+}
+
+a:hover
+{
+background: #D43737;
+}
+
+li
+{
+float:left;
+}
+
+.ad
+{
+width: 1200px;
+height: 250px;
+position: relative;
+top: 100;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+z-index:100;
+}
+
+.base
+{
+width: 1500px;
+height: 1700px;
+position: relative;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: #ADD8E6;
+}
+
+.catalog
+{
+width: 1200px;
+height: 1000px;
+position: relative;
+top: 200;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: white;
+}
+
+.vstavka
+{
+width: 1200px;
+height: 80px;
+position: relative;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: #008B8B;
+font-family: sans-serif;
+}
+
+.text-vstavka
+{
+padding-top: 20px;
+padding-left: 30px;
+line-height: 0;
+color: white;
+overflow: auto;
+display: inline-block;
+}
+
+.styleForBasket
+{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    float: right;
+    top:15;
+    right:30;
+}
+
+.inside_catalog
+{
+width: 1000px;
+height: 800px;
+position: relative;
+top: 80;
+left: 0;
+right: 0;
+bottom: 0;
+background:white;
+overflow: auto;
+margin: 0 auto;
+}
+
+.flower1
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -196;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgroud:green;
+}
+
+.phFlower1
+{
+position: relative;
+top:20;
+left:30;
+right:0;
+bottom:0;
+display: inline-block;
+}
+
+.bottom_of_flower1
+{
+border-radius: 8px;
+width: 100px;
+font-weight: 700;
+text-decoration: none;
+user-select: none;
+padding: 10 10;
+outline:none;
+transition: 0.2s;
+font-family: sans-serif;
+margin: 0 auto;
+padding-left: 10 10 10 10;
+}
+
+.text-flower-1
+{
+padding-top: 20px;
+height: 50px;
+width: 200px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+text-align: center;
+}
+
+.flower2
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -16;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgrond: blue;
+display: inline-block;
+}
+
+.flower3
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -10;
+right: 0;
+bottom: 100;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgrond: blue;
+float: right;
+}
+
+.flower4
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 386;
+left: 10;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgroud: blue;
+float: left;
+}
+
+.flower5
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 74;
+left: 400;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgrond: blue;
+float: left;
+}
+
+.flower6
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 74;
+left: -10;
+right: 10;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgroud: blue;
+display: inline-block;
+float: right;
+}
+
+.section2
+{
+width: 50%;
+height: 300px;
+position: absolute;
+top: 430;
+left: 100;
+right: 100;
+bottom: 100;
+overflow: auto;
+margin: 0 auto;
+}

@@ -1,0 +1,314 @@
+body 
+{
+background-color: #E0FFFF;
+margin: 0px;
+padding: 0px;
+}
+
+.clearfix:after {
+content:'';
+display: table;
+width: 100%;
+clear: both;
+}
+
+ul
+{
+margin-left: 50px;
+list-style:none;
+margin:0;
+padding-left:203;
+margin-top:25px;
+background:#F44;
+height: 50px;
+}
+
+a:not([korzina])
+{
+text-decoration:none;
+background: #FF4444;
+color: #fff;
+padding: 10px 15px;
+font-family: arial;
+line-height: 50px;
+display: block:
+border-right: 1px solid #F36262;
+-moz-transition: all 0.3s 0.01s ease;
+-o-transition: all 0.3s 0.01s ease;
+-webkut-transition: all 0.3s 0.01s ease;
+}
+
+a:hover
+{
+background: #D43737;
+}
+
+li
+{
+float:left;
+}
+
+.base
+{
+width: 1500px;
+height: 1700px;
+position: relative;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: #ADD8E6;
+}
+
+.catalog
+{
+width: 1200px;
+height: 1150px;
+position: relative;
+top: 100;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: white;
+overflow: auto;
+
+}
+
+.vstavka
+{
+width: 1200px;
+height: 80px;
+position: relative;
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+overflow: auto;
+margin: 0 auto;
+background: #008B8B;
+font-family: sans-serif;
+}
+
+.text-vstavka
+{
+position: relative;
+top:20;
+left:50;
+right:0;
+bottom:0;
+line-height: 0;
+color: white;
+overflow: auto;
+display: inline-block;
+}
+
+.table-1
+{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 50;
+    left: 95;
+    font-family: Arial;
+    overflow: auto;
+display: inline-block;
+}
+
+.table2
+{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 0;
+    left: 130;
+    overflow: auto;
+       display: inline-block;;
+}
+
+.text-table-2
+{
+    width: 300px;
+    height: 260px;
+    position: relative;
+    left: 50px;
+    top: 20;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    border: 5px solid #69c;
+  }
+  th {
+    font-weight: normal;
+    color: #039;
+    padding: 10px;
+  }
+  td {
+    color: #669;
+    border-top: 1px dashed white;
+    padding: 10px;
+    background:#4f976573;
+  }
+  tr:hover td {
+    background: #99bcff;
+  }
+
+.inside_catalog
+{
+width: 1000px;
+height: 550px;
+position: relative;
+top: 80;
+left: 0;
+right: 0;
+bottom: 0;
+background:white;
+overflow: auto;
+margin: 0 auto;
+}
+
+.flower1
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -196;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgroud:green;
+}
+
+.phFlower1
+{
+position: relative;
+top:20;
+left:30;
+right:0;
+bottom:0;
+display: inline-block;
+}
+
+.bottom_of_flower1
+{
+border-radius: 8px;
+width: 100px;
+font-weight: 700;
+text-decoration: none;
+user-select: none;
+padding: 10 10;
+outline:none;
+transition: 0.2s;
+font-family: sans-serif;
+margin: 0 auto;
+}
+
+.flower2
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -16;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgrond: blue;
+display: inline-block;
+}
+
+.flower3
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 10;
+left: -10;
+right: 0;
+bottom: 100;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgrond: blue;
+float: right;
+}
+
+.flower4
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 386;
+left: 10;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgroud: blue;
+float: left;
+}
+
+.flower5
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 74;
+left: 400;
+right: 0;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+display: inline-block;
+backgrond: blue;
+float: left;
+}
+
+.flower6
+{
+width: 200px;
+height: 300px;
+position: relative;
+top: 74;
+left: -10;
+right: 10;
+bottom: 0;
+overflow: auto;
+border: 3px solid transparent;
+border-top: ridge black;
+border-bottom:ridge black;
+backgroud: blue;
+display: inline-block;
+float: right;
+}
+
+.section2
+{
+width: 50%;
+height: 300px;
+position: absolute;
+top: 430;
+left: 100;
+right: 100;
+bottom: 100;
+overflow: auto;
+margin: 0 auto;
+}
